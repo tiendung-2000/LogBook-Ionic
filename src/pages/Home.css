@@ -1,0 +1,92 @@
+.FS{
+    padding:2rem 1rem;
+}
+
+.text-header{
+font-family: 'Roboto', serif;
+font-weight: bold;
+font-size: 28px;
+text-align: center;
+margin-bottom: 5%;
+}
+
+.text1{
+    font-size: 20px;
+    font-family: 'Roboto', serif; 
+}
+
+.login-text1{
+    font-size: 20px;
+    font-family: 'Roboto', serif;
+    margin-left: 40px;
+}
+
+.text2{
+    font-size: 20px;
+    font-family: 'Roboto', serif; 
+}
+
+.login-text2{
+    font-size: 20px;
+    font-family: 'Roboto', serif;
+    margin-left: 80px;
+}
+
+.text3{
+    font-size: 20px;
+    font-family: 'Roboto', serif; 
+}
+
+.login-text3{
+    font-size: 20px;
+    font-family: 'Roboto', serif; 
+    margin-left: 45px;
+}
+
+.text4{
+    font-size: 20px;
+    font-family: 'Roboto', serif; 
+}
+
+.login-text4{
+    font-size: 20px;
+    font-family: 'Roboto', serif;
+    margin-left: 6px;
+}
+
+.text5{
+    font-size: 20px;
+    font-family: 'Roboto', serif; 
+}
+
+.login-text5{
+    font-size: 20px;
+    font-family: 'Roboto', serif; 
+    margin-left: 37px;
+}
+
+.text6{
+    font-size: 20px;
+    font-family: 'Roboto', serif; 
+}
+
+.login-text6{
+    font-size: 20px;
+    font-family: 'Roboto', serif;
+    margin-left: 118px;
+}
+
+.btn-submit{
+    margin-top: 10%;
+    margin-left: 35%;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.button-audio{
+    margin-bottom: 10%;
+    margin-top: 10%;
+    margin-left: 6%;
+    font-weight: bold;
+    font-size: 20px;
+}
